@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>First Try Daily Report</title>
+    <link>https://onedrive.live.com/</link>
+    <description>Täglicher Bericht: Wetter, Nachrichten, Eintracht Frankfurt, Börse, Sport, Verkehr</description>
+    <language>de-de</language>
+
+    <item>
+      <title>Bericht 07:00</title>
+      <description><![CDATA[
+      Wetter Kefenrod<br>
+      Nachrichten Hessen<br>
+      Nachrichten Deutschland<br>
+      Weltnews<br>
+      Eintracht Frankfurt<br>
+      Börsenblock<br>
+      Sportblock<br>
+      Verkehrsblock<br>
+      ]]></description>
+      <pubDate>Thu, 27 Aug 2026 07:00:00 +0200</pubDate>
+    </item>
+
+    <item>
+      <title>Bericht 19:00</title>
+      <description><![CDATA[
+      Wetter Kefenrod<br>
+      Nachrichten Hessen<br>
+      Nachrichten Deutschland<br>
+      Weltnews<br>
+      Eintracht Frankfurt<br>
+      Börsenblock<br>
+      Sportblock<br>
+      Verkehrsblock<br>
+      ]]></description>
+      <pubDate>Thu, 27 Aug 2026 19:00:00 +0200</pubDate>
+    </item>
+
+  </channel>
+</rss>
